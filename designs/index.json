@@ -5,8 +5,16 @@
       "displayName": "Chinese Buddhism",
       "description": "Traditional Chinese Buddhist visual language for calm, contemplative interfaces.",
       "author": "NickGuAI",
-      "tags": ["buddhism","chinese","calm","traditional"],
-      "files": ["skill.md", "design-system.md"],
+      "tags": [
+        "buddhism",
+        "chinese",
+        "calm",
+        "traditional"
+      ],
+      "files": [
+        "skill.md",
+        "design-system.md"
+      ],
       "previewUrl": null,
       "createdAt": "2026-02-19T19:48:12Z"
     },
@@ -15,8 +23,16 @@
       "displayName": "Tropical Jungle",
       "description": "Lush tropical jungle-inspired UI system with vibrant natural tones and energetic visuals.",
       "author": "NickGuAI",
-      "tags": ["tropical","nature","vibrant","jungle"],
-      "files": ["skill.md", "design-system.md"],
+      "tags": [
+        "tropical",
+        "nature",
+        "vibrant",
+        "jungle"
+      ],
+      "files": [
+        "skill.md",
+        "design-system.md"
+      ],
       "previewUrl": null,
       "createdAt": "2026-02-19T19:48:12Z"
     },
@@ -25,8 +41,16 @@
       "displayName": "Picasso Cubism",
       "description": "Cubist-inspired visual system using geometric composition and expressive artistic contrast.",
       "author": "NickGuAI",
-      "tags": ["art","cubism","geometric","creative"],
-      "files": ["skill.md", "design-system.md"],
+      "tags": [
+        "art",
+        "cubism",
+        "geometric",
+        "creative"
+      ],
+      "files": [
+        "skill.md",
+        "design-system.md"
+      ],
       "previewUrl": null,
       "createdAt": "2026-02-19T19:48:12Z"
     },
@@ -35,8 +59,16 @@
       "displayName": "Japanese Mythology",
       "description": "Myth-inspired Japanese aesthetic combining ceremonial motifs with modern interface structure.",
       "author": "NickGuAI",
-      "tags": ["japanese","mythology","cultural","atmospheric"],
-      "files": ["skill.md", "design-system.md"],
+      "tags": [
+        "japanese",
+        "mythology",
+        "cultural",
+        "atmospheric"
+      ],
+      "files": [
+        "skill.md",
+        "design-system.md"
+      ],
       "previewUrl": null,
       "createdAt": "2026-02-19T19:48:12Z"
     },
@@ -45,8 +77,16 @@
       "displayName": "Forest",
       "description": "Forest-driven design language emphasizing organic balance, calm contrast, and natural depth.",
       "author": "NickGuAI",
-      "tags": ["forest","nature","organic","calm"],
-      "files": ["skill.md", "design-system.md"],
+      "tags": [
+        "forest",
+        "nature",
+        "organic",
+        "calm"
+      ],
+      "files": [
+        "skill.md",
+        "design-system.md"
+      ],
       "previewUrl": null,
       "createdAt": "2026-02-19T19:48:12Z"
     },
@@ -55,8 +95,16 @@
       "displayName": "Apocalypse Fallout",
       "description": "Post-apocalyptic interface style with rugged hierarchy, warning accents, and survival-era clarity.",
       "author": "NickGuAI",
-      "tags": ["apocalypse","fallout","dark","gritty"],
-      "files": ["skill.md", "design-system.md"],
+      "tags": [
+        "apocalypse",
+        "fallout",
+        "dark",
+        "gritty"
+      ],
+      "files": [
+        "skill.md",
+        "design-system.md"
+      ],
       "previewUrl": null,
       "createdAt": "2026-02-19T19:48:12Z"
     },
@@ -65,10 +113,36 @@
       "displayName": "New Yorker",
       "description": "A UI design system inspired by Manhattan's Upper West Side brownstones, off-Broadway theater culture, and the quiet confidence of old New York money. Warm linen backgrounds, tarnished brass accents, oxblood leather tones, and mahogany dark modes create interfaces that feel inherited rather than designed.",
       "author": "NickGuAI",
-      "tags": ["manhattan-brownstone","old-money","off-broadway"],
-      "files": ["skill.md", "design-system.md"],
+      "tags": [
+        "manhattan-brownstone",
+        "old-money",
+        "off-broadway"
+      ],
+      "files": [
+        "skill.md",
+        "design-system.md"
+      ],
       "previewUrl": "https://claude.ai/artifacts/6f6d4501-b943-43e1-99c9-77c8c990f195",
       "createdAt": "2026-02-19T20:30:00Z"
+    },
+    {
+      "name": "year-of-the-horse",
+      "displayName": "year-of-the-horse",
+      "description": "A bold, festive UI design system inspired by Chinese New Year and the Year of the Horse — red and gold palette, lantern glows, fortune proverbs, and celebratory energy for auspicious interfaces.",
+      "author": "",
+      "tags": [
+        "Chinese New Year",
+        "Year of the Horse",
+        "Festive UI",
+        "Red & Gold",
+        "Lunar New Year"
+      ],
+      "files": [
+        "skill.md",
+        "design-system.md"
+      ],
+      "previewUrl": null,
+      "createdAt": "2026-02-19T20:59:11.489Z"
     }
   ]
 }
