@@ -1,0 +1,64 @@
+{
+  "designs": [
+    {
+      "name": "chinese-buddhism",
+      "displayName": "Chinese Buddhism",
+      "description": "Traditional Chinese Buddhist visual language for calm, contemplative interfaces.",
+      "author": "NickGuAI",
+      "tags": ["buddhism","chinese","calm","traditional"],
+      "files": ["skill.md", "design-system.md"],
+      "previewUrl": null,
+      "createdAt": "2026-02-19T19:48:12Z"
+    },
+    {
+      "name": "tropical-jungle",
+      "displayName": "Tropical Jungle",
+      "description": "Lush tropical jungle-inspired UI system with vibrant natural tones and energetic visuals.",
+      "author": "NickGuAI",
+      "tags": ["tropical","nature","vibrant","jungle"],
+      "files": ["skill.md", "design-system.md"],
+      "previewUrl": null,
+      "createdAt": "2026-02-19T19:48:12Z"
+    },
+    {
+      "name": "picasso-cubism",
+      "displayName": "Picasso Cubism",
+      "description": "Cubist-inspired visual system using geometric composition and expressive artistic contrast.",
+      "author": "NickGuAI",
+      "tags": ["art","cubism","geometric","creative"],
+      "files": ["skill.md", "design-system.md"],
+      "previewUrl": null,
+      "createdAt": "2026-02-19T19:48:12Z"
+    },
+    {
+      "name": "japanese-mythology",
+      "displayName": "Japanese Mythology",
+      "description": "Myth-inspired Japanese aesthetic combining ceremonial motifs with modern interface structure.",
+      "author": "NickGuAI",
+      "tags": ["japanese","mythology","cultural","atmospheric"],
+      "files": ["skill.md", "design-system.md"],
+      "previewUrl": null,
+      "createdAt": "2026-02-19T19:48:12Z"
+    },
+    {
+      "name": "forest",
+      "displayName": "Forest",
+      "description": "Forest-driven design language emphasizing organic balance, calm contrast, and natural depth.",
+      "author": "NickGuAI",
+      "tags": ["forest","nature","organic","calm"],
+      "files": ["skill.md", "design-system.md"],
+      "previewUrl": null,
+      "createdAt": "2026-02-19T19:48:12Z"
+    },
+    {
+      "name": "apocalypse-fallout",
+      "displayName": "Apocalypse Fallout",
+      "description": "Post-apocalyptic interface style with rugged hierarchy, warning accents, and survival-era clarity.",
+      "author": "NickGuAI",
+      "tags": ["apocalypse","fallout","dark","gritty"],
+      "files": ["skill.md", "design-system.md"],
+      "previewUrl": null,
+      "createdAt": "2026-02-19T19:48:12Z"
+    }
+  ]
+}
