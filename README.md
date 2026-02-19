@@ -14,7 +14,10 @@ For all content discovery and contribution workflows, use:
 ## Contribute a Design
 
 - Upload flow: https://mydesign.gehirn.ai/upload
-- Sign in, submit your design package, and the platform will create a review PR into this repo
+- Sign in and upload your design docs as markdown skill inputs (for example `design.md` and related markdown files)
+- mydesign will populate a standardized `SKILL.md` for users during processing
+- The **Preview URL** field is for showing off your UI (live demo / hosted preview)
+- After submission, the platform creates a review PR into this repo
 
 ## Repository Role
 
